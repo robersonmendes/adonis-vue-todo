@@ -1,0 +1,18 @@
+[Client I] Did not find user settings at </<redacted>/<redacted>.json>
+[Client I] Trace log: /tmp/VSFeedbackVSRTCLogs/20190701_202924_15620129642990_VSCode.log
+[Client V] Downloading remote settings from https://az700632.vo.msecnd.net/pub/VSLiveShare/VSCode/remoteSettings.json
+[Client I] Trace log: /tmp/VSFeedbackVSRTCLogs/20190701_202924_15620129646440_VSCode.log
+[Client I] Extension, IDE, OS : VSLS/1.0.471 VSCode/1.32.3 Linux/4.15.0-52-generic
+[Client I] Passed version check for Linux: found 4.15.0-52-generic
+[Client.Rpc V] RPCClient.init retryCount:0 currentRetryInterval:0
+[Debug.Rpc.Host V] TrackDebugManager created
+[Client.Rpc V] Agent connection not completed: Error: connect ENOENT /tmp/CoreFxPipe_vscode.5a672190757d649ef780671e0d0ea88d; Retrying...
+[Client.Rpc V] RPCClient.init retryCount:1 currentRetryInterval:100
+[Client.Agent V] Agent lock on:</<redacted>/<redacted>.lock>
+[Client.Agent I] starting agent with pipe:vscode.5a672190757d649ef780671e0d0ea88d
+[Client.Agent I] presence service -> uri:https://signlr-prod.core.vsengsaas.visualstudio.com/api/signalr/presencehub vslsTeam:false insiders:false vscode:1.32.3
+[Client.Agent V] Finished agent startup...
+[Client.Rpc V] Agent connection not completed: Error: connect ENOENT /tmp/CoreFxPipe_vscode.5a672190757d649ef780671e0d0ea88d; Retrying...
+[Client.Agent V] Agent unlocked
+[Client.Rpc V] RPCClient.init retryCount:2 currentRetryInterval:100
+[Client.Rpc I] Agent connection success - net.pipe://localhost/vscode.5a672190757d649ef780671e0d0ea88d
